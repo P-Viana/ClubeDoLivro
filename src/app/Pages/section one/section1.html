@@ -1,0 +1,30 @@
+<div>
+    @for(noticia of noticiasReversas; track noticia.titulo) {
+    <div class="section1">
+        <div class="first-area">
+            <div class="info-name">
+                Notícia
+            </div>
+            <div class="title">
+                <hr>
+                <h1>{{noticia.titulo}}</h1>
+                <hr>
+            </div>
+            <div class="subtitle">
+                <h2>{{noticia.subtitulo}}</h2>
+            </div>
+        </div>
+       <div class="second-area">
+            <div class="data">
+                {{noticia.data}}
+            </div>
+            <div class="text">
+                @for(paragrafo of noticia.texto; track $index) {
+                    <p>{{paragrafo}}</p>
+                }
+            </div>
+
+       </div>
+    </div>
+    }
+</div>
