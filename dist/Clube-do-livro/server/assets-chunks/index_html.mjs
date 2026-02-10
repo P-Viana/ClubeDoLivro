@@ -1,0 +1,12 @@
+export default `<!DOCTYPE html><html lang="en" data-beasties-container><head>
+  <meta charset="utf-8">
+  <title>ClubeDoLivro</title>
+  <base href="/">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="icon" type="image/x-icon" href="cavaleiros.jpg">
+<link rel="stylesheet" href="styles-5INURTSO.css"><style ng-app-id="ng">.topper[_ngcontent-ng-c118332002]{display:flex;justify-content:space-around;height:200px}.links[_ngcontent-ng-c118332002]{display:flex;justify-content:space-around;color:#000}.title[_ngcontent-ng-c118332002]   h1[_ngcontent-ng-c118332002]{font-size:2.5em;padding-bottom:none;font-family:Old London,serif}.title[_ngcontent-ng-c118332002]   h1[_ngcontent-ng-c118332002]:first-letter{color:red}.image[_ngcontent-ng-c118332002]{width:130px;height:130px;border-radius:5.5rem}.image[_ngcontent-ng-c118332002]   img[_ngcontent-ng-c118332002]{width:100%;height:100%;object-fit:cover}@font-face{font-family:Old London;src:url("./media/OldLondon-IBFYO3O6.ttf") format("truetype");font-weight:400;font-style:normal}</style></head>
+<body><!--nghm-->
+  <app-root ng-version="20.3.16" ngh="0" ng-server-context="ssg"><topper _nghost-ng-c118332002 ngh="0"><div _ngcontent-ng-c118332002 class="topper"><div _ngcontent-ng-c118332002 class="image"><img _ngcontent-ng-c118332002 src="/cavaleiros.jpg" alt></div><div _ngcontent-ng-c118332002 class="title"><h2 _ngcontent-ng-c118332002>Clube do livro</h2><h1 _ngcontent-ng-c118332002>Cavaleiros da Távola Redonda</h1></div><div _ngcontent-ng-c118332002 class="links"><div _ngcontent-ng-c118332002><a _ngcontent-ng-c118332002 href>Quem somos?</a></div><div _ngcontent-ng-c118332002><a _ngcontent-ng-c118332002 href>Como funciona?</a></div></div></div></topper></app-root>
+<script src="main-ZESWN4R5.js" type="module"></script>
+
+<script id="ng-state" type="application/json">{"__nghData__":[{}]}</script></body></html>`;
